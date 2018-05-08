@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leafmen@126.com",
+  "license": "ISC",
+  "dependencies": {
+    "baidu-aip-sdk": "^2.1.0",
+    "express": "^4.16.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "multiparty": "^4.1.3"
+  }
+}
